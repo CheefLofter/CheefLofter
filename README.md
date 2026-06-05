@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="assets/banner-joker.webp" style="width:500px;max-width:100%;height:auto;" alt="banner">
+<img src="assets/lj.webp" style="width:500px;max-width:100%;height:auto;" alt="banner">
 
 </div>
 
