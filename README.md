@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="assets/banner-jbd.jpeg" style="width:500px;max-width:100%;height:auto;" alt="banner">
+<img src="assets/banner-jcd(1).jpeg" style="width:500px;max-width:100%;height:auto;" alt="banner">
 
 </div>
 
