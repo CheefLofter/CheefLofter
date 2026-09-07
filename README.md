@@ -20,7 +20,7 @@ Student | Cyber Security | Software devlopment
 
 ## 💻 Tech Stack:
 
-<div align="center">
+<div align="center" style="width=600px;max-width=70%;">
 
 ### [ LANGUAGES ]
 
