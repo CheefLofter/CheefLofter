@@ -17,14 +17,6 @@
 
 ---
 
-## 👤 About Me
-
-- 🎓 Student
-- 🔐 Into **cyber security**, from pentesting to network analysis
-- 💻 Building things as a **software developer**
-- 🎨 Also into 3D and design with Blender and Adobe
-
----
 
 ## 💻 Tech Stack
 
